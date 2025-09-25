@@ -1,9 +1,8 @@
 // api/webhook.js
 const fs = require('fs');
+const fs = require('fs');
 const path = require('path');
-
-// โหลดฐานความรู้ (JSON)
-const kbPath = path.join(__dirname, '..', 'kb_multi_full_from_agent.json');
+const kbPath = path.join(__dirname, '..', 'kb_multi_3lang.json');
 const kb = JSON.parse(fs.readFileSync(kbPath, 'utf8')).items;
 
 // ฟังก์ชันตรวจภาษาแบบง่าย ๆ
