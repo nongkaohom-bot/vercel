@@ -1,65 +1,47 @@
-import fs from "fs";
-import path from "path";
+// api/webhook.js
+const fs = require('fs');
+const path = require('path');
 
-const kb = JSON.parse(
-  fs.readFileSync(path.join(process.cwd(), "kb_multi.json"), "utf8")
-).items;
+// โหลดฐานความรู้ (JSON)
+const kbPath = path.join(__dirname, '..', 'kb_multi_full_from_agent.json');
+const kb = JSON.parse(fs.readFileSync(kbPath, 'utf8')).items;
 
-function detectLang(text = "") {
-  if (/[ぁ-んァ-ン一-龯]/.test(text)) return "ja";
-  if (/[฀-\u0E7F]/.test(text)) return "th";
-  return "en";
+// ฟังก์ชันตรวจภาษาแบบง่าย ๆ
+function detectLang(text) {
+  if (/[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9faf]/.test(text)) return "ja"; // ญี่ปุ่น
+  if (/[a-zA-Z]/.test(text)) return "en"; // อังกฤษ
+  return "th"; // ไทย (default)
 }
 
-function norm(s = "") { return String(s).trim().toLowerCase(); }
-
-function findAnswer(reqText, intentDisplayName) {
-  const lang = detectLang(reqText);
-
-  if (intentDisplayName) {
-    const name = intentDisplayName.replace(/^\[[^\]]+\]\s*/, "").trim();
-    const hit = kb.find(it => it.q?.th === name);
-    if (hit) return { lang, item: hit };
-  }
-
-  const q = norm(reqText);
-  let best = null;
-  for (const it of kb) {
-    const cand = [it.q?.[lang], it.q?.th, it.q?.en, it.q?.ja].filter(Boolean);
-    for (const c of cand) {
-      const cl = c.toLowerCase();
-      const score = cl.includes(q) || q.includes(cl) ? cl.length : 0;
-      if (score > (best?.score || 0)) best = { item: it, score };
+// ฟังก์ชันหาคำตอบ
+function findAnswer(query, lang) {
+  // ค้นหาแบบ contains
+  for (let item of kb) {
+    const q = item.q[lang] || "";
+    if (q && query.includes(q.split(" ")[0])) {
+      return item.a[lang] || item.a["th"];
     }
   }
-  if (best) return { lang, item: best.item };
-  return { lang, item: null };
+  // ถ้าไม่เจอเลย return null
+  return null;
 }
 
-export default async function handler(req, res) {
+// Handler ของ Vercel
+module.exports = (req, res) => {
+  if (req.method !== "POST") {
+    return res.status(405).json({ error: "Method Not Allowed" });
+  }
+
   try {
-    if (req.method !== "POST") {
-      return res.status(405).json({ error: "Method Not Allowed" });
-    }
-    const body = req.body || {};
-    const queryText = body?.queryResult?.queryText || "";
-    const intentDisplayName = body?.queryResult?.intent?.displayName || "";
+    const queryText = req.body.queryResult?.queryText || "";
+    const lang = detectLang(queryText);
+    const answer = findAnswer(queryText, lang) || "ขออภัย ฉันไม่เข้าใจคำถามนี้";
 
-    const { lang, item } = findAnswer(queryText, intentDisplayName);
-
-    if (!item) {
-      const fallback = {
-        th: "ขอรายละเอียดเพิ่มเติม (แผนก/ระบบ/รหัสเอกสาร) เพื่อหาคำตอบที่ตรงขึ้นครับ",
-        en: "Please provide more details (department/system/document code).",
-        ja: "より正確に回答するため、部署・システム・文書コードなどの詳細を教えてください。"
-      };
-      return res.status(200).json({ fulfillmentText: fallback[lang] || fallback.en });
-    }
-
-    const answer = item.a?.[lang] || item.a?.en || item.a?.th || "No answer found.";
-    return res.status(200).json({ fulfillmentText: answer });
-  } catch (e) {
-    console.error(e);
-    return res.status(200).json({ fulfillmentText: "Webhook error." });
+    res.json({
+      fulfillmentText: answer
+    });
+  } catch (err) {
+    console.error("Webhook error:", err);
+    res.status(500).json({ error: "Internal Server Error" });
   }
-}
+};
