@@ -1,0 +1,9 @@
+{
+  "items": [
+    {
+      "tag": "HR",
+      "q": {"th": "วันหยุดประจำปีของบริษัทวันไหนบ้าง", "en": "annual holidays of the company", "ja": "会社の年次休日はいつですか"},
+      "a": {"th": "บริษัทประกาศวันหยุดประจำปีผ่าน HRIS ทุกปี", "en": "The company announces annual holidays through HRIS each year.", "ja": "会社は毎年 HRIS を通じて年次休日を発表します。"}
+    }
+  ]
+}
