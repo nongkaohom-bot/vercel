@@ -1,0 +1,472 @@
+{
+  "items": [
+    {
+      "tag": "HR",
+      "q": {
+        "th": "วันหยุดประจำปีของบริษัทวันไหนบ้าง",
+        "en": "annual holidaysของthe companyวันไหนบ้าง",
+        "ja": "年次休日ของ会社วันไหนบ้าง"
+      },
+      "a": {
+        "th": "บริษัทกำหนดวันหยุดประจำปีรวมประมาณ 13 วัน ซึ่งจะประกาศล่วงหน้าทาง HR Portal และบอร์ดประกาศภายใน พนักงานสามารถตรวจสอบและวางแผนการลาหยุดได้ตามตารางดังกล่าว.",
+        "en": "The company provides around 13 annual holidays, which are announced in advance via the HR Portal and internal notice boards. Employees can check the schedule and plan their leave accordingly.",
+        "ja": "当社は年間約13日の休日を設けており、HRポータルや社内掲示板で事前に告知されます。社員はそのスケジュールを確認し、休暇計画を立てることができます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "การลางานต้องแจ้งล่วงหน้ากี่วัน",
+        "en": "การลางานต้องแจ้งล่วงหน้ากี่วัน",
+        "ja": "การลางานต้องแจ้งล่วงหน้ากี่วัน"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "ช่องทางการขอลางานมีอะไรบ้าง",
+        "en": "ช่องทางการขอลางานมีอะไรบ้าง",
+        "ja": "ช่องทางการขอลางานมีอะไรบ้าง"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "บริษัทมีข้อกำหนดในการแต่งกายยังไงบ้าง",
+        "en": "the companyมีข้อกำหนดในการแต่งกายยังไงบ้าง",
+        "ja": "会社มีข้อกำหนดในการแต่งกายยังไงบ้าง"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "วันเงินเดือนออกคือวันที่เท่าไหร่ของเดือน",
+        "en": "วันเงินเดือนออกคือวันที่เท่าไหร่ของเดือน",
+        "ja": "วันเงินเดือนออกคือวันที่เท่าไหร่ของเดือน"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "วันตัดรอบ OT คือวันไหน",
+        "en": "วันตัดรอบ OT คือวันไหน",
+        "ja": "วันตัดรอบ OT คือวันไหน"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "กรณีลืมสแกนนิ้วต้องทำอย่างไรบ้าง",
+        "en": "กรณีลืมสแกนนิ้วต้องทำอย่างไรบ้าง",
+        "ja": "กรณีลืมสแกนนิ้วต้องทำอย่างไรบ้าง"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "บริษัทมีกำหนดพักกลางวันช่วงใดบ้าง",
+        "en": "the companyมีกำหนดพักกลางวันช่วงใดบ้าง",
+        "ja": "会社มีกำหนดพักกลางวันช่วงใดบ้าง"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "เวลาการทำงานปกติของบริษัทคือกี่โมงถึงกี่โมง",
+        "en": "เวลาการทำงานปกติของthe companyคือกี่โมงถึงกี่โมง",
+        "ja": "เวลาการทำงานปกติของ会社คือกี่โมงถึงกี่โมง"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "เบอร์ภายใน ของคุณธัมกาล",
+        "en": "เบอร์ภายใน ของคุณธัมกาล",
+        "ja": "เบอร์ภายใน ของคุณธัมกาล"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "จำนวนพนักงานปัจจุบัน แยก STT กับ Sub",
+        "en": "จำนวนพนักงานปัจจุบัน แยก STT กับ Sub",
+        "ja": "จำนวนพนักงานปัจจุบัน แยก STT กับ Sub"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "พนักงานที่อบรมหลักสูตร \"ทัพย์สินทางปัญญา\" ไปหรือยัง",
+        "en": "พนักงานที่อบรมหลักสูตร \"ทัพย์สินทางปัญญา\" ไปหรือยัง",
+        "ja": "พนักงานที่อบรมหลักสูตร \"ทัพย์สินทางปัญญา\" ไปหรือยัง"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "ปีนี้ผมเหลือสิทธิ์อะไรบ้าง",
+        "en": "ปีนี้ผมเหลือสิทธิ์อะไรบ้าง",
+        "ja": "ปีนี้ผมเหลือสิทธิ์อะไรบ้าง"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "เอกสารที่ใช้สมัครงานต้องเตรียมอะไรบ้าง",
+        "en": "เอกสารที่ใช้สมัครงานต้องเตรียมอะไรบ้าง",
+        "ja": "เอกสารที่ใช้สมัครงานต้องเตรียมอะไรบ้าง"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "มีแบบฟอร์มใบลาให้โหลดที่ไหน",
+        "en": "มีแบบฟอร์มใบลาให้โหลดที่ไหน",
+        "ja": "มีแบบฟอร์มใบลาให้โหลดที่ไหน"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "วิธีขออนุมัติ OT ต้องทำอย่างไร",
+        "en": "วิธีขออนุมัติ OT ต้องทำอย่างไร",
+        "ja": "วิธีขออนุมัติ OT ต้องทำอย่างไร"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "MT",
+      "q": {
+        "th": "แจ้งว่อมเครื่องจักรต้องติดต่อใคร",
+        "en": "แจ้งว่อมmachineต้องcontactใคร",
+        "ja": "แจ้งว่อม設備ต้อง連絡ใคร"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "มีรอบการทำ PM กี่ครั้งต่อปี",
+        "en": "มีรอบการทำ PM กี่ครั้งต่อปี",
+        "ja": "มีรอบการทำ PM กี่ครั้งต่อปี"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "ถ้าระบบไฟฟ้าดับฉุกเฉินต้องแจ้งที่ไหน",
+        "en": "ถ้าsystemไฟฟ้าดับฉุกเฉินต้องแจ้งที่ไหน",
+        "ja": "ถ้าシステムไฟฟ้าดับฉุกเฉินต้องแจ้งที่ไหน"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "เครื่องจักรในแผนกที่จะ PM ในเดือนนี้มีรายการไหนบ้าง",
+        "en": "machineในแผนกที่จะ PM ในเดือนนี้มีรายการไหนบ้าง",
+        "ja": "設備ในแผนกที่จะ PM ในเดือนนี้มีรายการไหนบ้าง"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "IT",
+      "q": {
+        "th": "ถ้าเครื่องคอมพิวเตอร์ใช้งานไม่ได้ต้องทำอย่างไร",
+        "en": "ถ้าเครื่องcomputerใช้งานไม่ได้ต้องทำอย่างไร",
+        "ja": "ถ้าเครื่องコンピュータใช้งานไม่ได้ต้องทำอย่างไร"
+      },
+      "a": {
+        "th": "หากคอมพิวเตอร์ไม่สามารถใช้งานได้ กรุณาแจ้งผ่านระบบ IT Helpdesk หรือโทรสายด่วน IT เจ้าหน้าที่จะช่วยตรวจสอบปัญหาเบื้องต้นและนัดซ่อมหรือเปลี่ยนเครื่องหากจำเป็น.",
+        "en": "If your computer is not working, please report the issue via the IT Helpdesk system or call the IT hotline. The IT staff will assist with troubleshooting and arrange repair or replacement if necessary.",
+        "ja": "パソコンが使用できない場合は、ITヘルプデスクシステムから報告するか、ITホットラインに連絡してください。IT担当者が原因を調査し、必要に応じて修理または交換を手配します。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "ขอ reset password ต้องแจ้งที่ไหน",
+        "en": "ขอ reset password ต้องแจ้งที่ไหน",
+        "ja": "ขอ reset password ต้องแจ้งที่ไหน"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "ใบงานที่เปิดไปของแผนกเป็นอย่างไรบ้าง",
+        "en": "ใบงานที่เปิดไปของแผนกเป็นอย่างไรบ้าง",
+        "ja": "ใบงานที่เปิดไปของแผนกเป็นอย่างไรบ้าง"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "สรุปภาพรวมการทำงานของเดือนนี้",
+        "en": "สรุปภาพรวมการทำงานของเดือนนี้",
+        "ja": "สรุปภาพรวมการทำงานของเดือนนี้"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "มีโปรแกรมช้าอะไรบ้าง",
+        "en": "มีโปรแกรมช้าอะไรบ้าง",
+        "ja": "มีโปรแกรมช้าอะไรบ้าง"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "มีโปรแกรมที่รอการพัฒนาอยู่",
+        "en": "มีโปรแกรมที่รอการพัฒนาอยู่",
+        "ja": "มีโปรแกรมที่รอการพัฒนาอยู่"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "DDC",
+      "q": {
+        "th": "ตารางการตรวจติดตาม audit",
+        "en": "scheduleการaudit audit",
+        "ja": "スケジュールการ監査 audit"
+      },
+      "a": {
+        "th": "การตรวจติดตาม (Audit) จะจัดขึ้นปีละ 2 ครั้ง โดยฝ่าย QA/DDC ประกาศตารางผ่าน Intranet พนักงานที่เกี่ยวข้องจะได้รับอีเมลแจ้งเตือนล่วงหน้า.",
+        "en": "Audits are conducted twice a year, and the QA/DDC department publishes the schedule on the Intranet. All related staff will also receive email notifications in advance.",
+        "ja": "監査は年2回実施され、QA/DDC部門がイントラネットでスケジュールを公開します。関係する社員には事前にメール通知も送られます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "มีการ audit จากภายนอก วันไหนบ้าง",
+        "en": "มีการ audit จากภายนอก วันไหนบ้าง",
+        "ja": "มีการ audit จากภายนอก วันไหนบ้าง"
+      },
+      "a": {
+        "th": "การตรวจติดตาม (Audit) จะจัดขึ้นปีละ 2 ครั้ง โดยฝ่าย QA/DDC ประกาศตารางผ่าน Intranet พนักงานที่เกี่ยวข้องจะได้รับอีเมลแจ้งเตือนล่วงหน้า.",
+        "en": "Audits are conducted twice a year, and the QA/DDC department publishes the schedule on the Intranet. All related staff will also receive email notifications in advance.",
+        "ja": "監査は年2回実施され、QA/DDC部門がイントラネットでスケジュールを公開します。関係する社員には事前にメール通知も送られます。"
+      }
+    },
+    {
+      "tag": "SE",
+      "q": {
+        "th": "อุบัติเหตุที่เกิดขึ้นล่าสุดเกิดขึ้นเมื่อใด",
+        "en": "incidentที่เกิดขึ้นล่าสุดเกิดขึ้นเมื่อใด",
+        "ja": "事故ที่เกิดขึ้นล่าสุดเกิดขึ้นเมื่อใด"
+      },
+      "a": {
+        "th": "หากเกิดอุบัติเหตุในพื้นที่ทำงาน พนักงานต้องแจ้งหัวหน้างานทันทีและติดต่อแผนกความปลอดภัย ฝ่ายความปลอดภัยจะบันทึกเหตุการณ์และให้การช่วยเหลือตามขั้นตอน.",
+        "en": "In case of a workplace accident, employees must immediately inform their supervisor and contact the Safety Department. The Safety team will record the incident and provide assistance according to procedures.",
+        "ja": "職場で事故が発生した場合、従業員は直ちに上司に報告し、安全部門に連絡する必要があります。安全担当チームが記録を取り、手順に従って対応します。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "หากเกิดอุบัติที่เหตุต้องทำอย่างไร",
+        "en": "หากเกิดอุบัติที่เหตุต้องทำอย่างไร",
+        "ja": "หากเกิดอุบัติที่เหตุต้องทำอย่างไร"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "นโยบาย ISO ของบริษัทมีอะไรบ้าง",
+        "en": "นโยบาย ISO ของthe companyมีอะไรบ้าง",
+        "ja": "นโยบาย ISO ของ会社มีอะไรบ้าง"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "QC",
+      "q": {
+        "th": "ของเสียในระบบ ปีนี้เป็นอย่างไร",
+        "en": "defect/rejectในsystem ปีนี้เป็นอย่างไร",
+        "ja": "不良ในシステム ปีนี้เป็นอย่างไร"
+      },
+      "a": {
+        "th": "เมื่อพบของเสียในการผลิต ต้องแยกเก็บไว้ในพื้นที่ที่กำหนดและบันทึกลงในระบบ เจ้าหน้าที่ QA จะตรวจสอบสาเหตุและดำเนินการแก้ไข.",
+        "en": "When defects are found in production, they must be separated into the designated area and recorded in the system. QA staff will investigate the cause and implement corrective actions.",
+        "ja": "生産で不良品が見つかった場合、指定された場所に分別し、システムに記録する必要があります。QA担当者が原因を調査し、是正措置を実施します。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "การทำงานของ แผนก เป็นอย่างไร",
+        "en": "การทำงานของ แผนก เป็นอย่างไร",
+        "ja": "การทำงานของ แผนก เป็นอย่างไร"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "nan",
+      "q": {
+        "th": "ถ้าเกินตรวจพบของเสีย มีขันตอนอย่างไร",
+        "en": "ถ้าเกินตรวจพบdefect/reject มีขันตอนอย่างไร",
+        "ja": "ถ้าเกินตรวจพบ不良 มีขันตอนอย่างไร"
+      },
+      "a": {
+        "th": "เมื่อพบของเสียในการผลิต ต้องแยกเก็บไว้ในพื้นที่ที่กำหนดและบันทึกลงในระบบ เจ้าหน้าที่ QA จะตรวจสอบสาเหตุและดำเนินการแก้ไข.",
+        "en": "When defects are found in production, they must be separated into the designated area and recorded in the system. QA staff will investigate the cause and implement corrective actions.",
+        "ja": "生産で不良品が見つかった場合、指定された場所に分別し、システムに記録する必要があります。QA担当者が原因を調査し、是正措置を実施します。"
+      }
+    },
+    {
+      "tag": "IE",
+      "q": {
+        "th": "ตารางของที่จะมาส่งวันนี้",
+        "en": "scheduleของที่จะมาส่งวันนี้",
+        "ja": "スケジュールของที่จะมาส่งวันนี้"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    },
+    {
+      "tag": "ST",
+      "q": {
+        "th": "Mat shortage ในเดือนนี้มีรายการไหนบ้าง",
+        "en": "Mat shortage ในเดือนนี้มีรายการไหนบ้าง",
+        "ja": "Mat shortage ในเดือนนี้มีรายการไหนบ้าง"
+      },
+      "a": {
+        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
+        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
+        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+      }
+    }
+  ]
+}
