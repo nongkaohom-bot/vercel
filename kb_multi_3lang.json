@@ -56,13 +56,13 @@
       "tag": "",
       "q": {
         "th": "วันเงินเดือนออกคือวันที่เท่าไหร่ของเดือน",
-        "en": "วันเงินเดือนออกคือวันที่เท่าไหร่ของเดือน",
-        "ja": "วันเงินเดือนออกคือวันที่เท่าไหร่ของเดือน"
+        "en": "What day of the month is payday?",
+        "ja": "給料日は毎月何日ですか？"
       },
       "a": {
-        "th": "ทุกวันที่ 25 ของเดือน",
-        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
-        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+        "th": "เงินเดือนออกทุกวันที่ 25 ของเดือน",
+        "en": "Salary will be paid on the 25th of every month.",
+        "ja": "給料は毎月25日に支払われます。"
       }
     },
     {
@@ -121,13 +121,13 @@
       "tag": "",
       "q": {
         "th": "เบอร์ภายใน ของคุณธัมกาล",
-        "en": "เบอร์ภายใน ของคุณธัมกาล",
-        "ja": "เบอร์ภายใน ของคุณธัมกาล"
+        "en": "Mr.Thamkarn's internal number",
+        "ja": "タムカーン氏の内部番号"
       },
       "a": {
-        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
-        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
-        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+        "th": "012-345-6789",
+        "en": "012-345-6789",
+        "ja": "012-345-6789"
       }
     },
     {
