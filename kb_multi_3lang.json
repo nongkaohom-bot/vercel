@@ -4,8 +4,8 @@
       "tag": "HR",
       "q": {
         "th": "วันหยุดประจำปีของบริษัทวันไหนบ้าง",
-        "en": "annual holidaysของthe companyวันไหนบ้าง",
-        "ja": "年次休日ของ会社วันไหนบ้าง"
+        "en": "What are the company's annual holidays?",
+        "ja": "会社の年間休日は何ですか？"
       },
       "a": {
         "th": "บริษัทกำหนดวันหยุดประจำปีรวมประมาณ 13 วัน ซึ่งจะประกาศล่วงหน้าทาง HR Portal และบอร์ดประกาศภายใน พนักงานสามารถตรวจสอบและวางแผนการลาหยุดได้ตามตารางดังกล่าว.",
@@ -17,13 +17,13 @@
       "tag": "",
       "q": {
         "th": "การลางานต้องแจ้งล่วงหน้ากี่วัน",
-        "en": "การลางานต้องแจ้งล่วงหน้ากี่วัน",
-        "ja": "การลางานต้องแจ้งล่วงหน้ากี่วัน"
+        "en": "How many days' notice is required for leave?",
+        "ja": "休暇を取るには何日前までに通知する必要がありますか?"
       },
       "a": {
-        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
-        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
-        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+        "th": "แจ้งล่วงหน้าอย่างน้อย 3 วัน",   
+        "en": "Please notify at least 3 days in advance.",
+        "ja": "少なくとも3日前までに通知してください。"
       }
     },
     {
@@ -34,22 +34,22 @@
         "ja": "ช่องทางการขอลางานมีอะไรบ้าง"
       },
       "a": {
-        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
-        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
-        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+        "th": "กรอกเอกสารการลานำส่งHR",
+        "en": "Leave documents submitted to HR.",
+        "ja": "人事部に提出された休暇書類。"
       }
     },
     {
       "tag": "",
       "q": {
         "th": "บริษัทมีข้อกำหนดในการแต่งกายยังไงบ้าง",
-        "en": "the companyมีข้อกำหนดในการแต่งกายยังไงบ้าง",
-        "ja": "会社มีข้อกำหนดในการแต่งกายยังไงบ้าง"
+        "en": "What are the company's dress codes?",
+        "ja": "会社の服装規定は何ですか?"
       },
       "a": {
-        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
-        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
-        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+        "th": "แต่งกายสุภาพ สวมรองเท้าหุ้มส้น",
+        "en": "Please dress appropriately and wear closed-toe shoes.",
+        "ja": "適切な服装をし、つま先が覆われた靴を履いてください。"
       }
     },
     {
