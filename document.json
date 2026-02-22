@@ -1,0 +1,16 @@
+[
+  {
+    "key": "a",
+    "title": "File A - Leave Form",
+    "keywords": ["file a", "a", "leave form", "แบบฟอร์มลา"],
+    "url": "https://drive.google.com/uc?export=download&id=DRIVE_FILE_ID",
+    "access": "internal"
+  },
+  {
+    "key": "payroll_policy",
+    "title": "Payroll Policy",
+    "keywords": ["payroll", "เงินเดือน", "policy payroll"],
+    "url": "https://drive.google.com/uc?export=download&id=DRIVE_FILE_ID",
+    "access": "internal"
+  }
+]
