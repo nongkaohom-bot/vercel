@@ -108,13 +108,13 @@
       "tag": "",
       "q": {
         "th": "เวลาการทำงานปกติของบริษัทคือกี่โมงถึงกี่โมง",
-        "en": "เวลาการทำงานปกติของthe companyคือกี่โมงถึงกี่โมง",
-        "ja": "เวลาการทำงานปกติของ会社คือกี่โมงถึงกี่โมง"
+        "en": "What are the company's normal working hours?",
+        "ja": "会社の通常の勤務時間は何時ですか?"
       },
       "a": {
-        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
-        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
-        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+        "th": "เวลาทำงานของบริษัทคือ 08:00-17:00",
+        "en": "The company's working hours are 08:00-17:00.",
+        "ja": "当社の勤務時間は8:00～17:00です。"
       }
     },
     {
