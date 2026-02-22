@@ -69,21 +69,21 @@
       "tag": "",
       "q": {
         "th": "วันตัดรอบ OT คือวันไหน",
-        "en": "วันตัดรอบ OT คือวันไหน",
-        "ja": "วันตัดรอบ OT คือวันไหน"
+        "en": "What is the cutoff date for OT payments?",
+        "ja": "残業代の支払いの締め日は何ですか?"
       },
       "a": {
-        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
-        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
-        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+        "th": "ทุกวันที่ 25 ของเดือน",
+        "en": "The 25th of every month.",
+        "ja": "毎月25日。"
       }
     },
     {
       "tag": "",
       "q": {
         "th": "กรณีลืมสแกนนิ้วต้องทำอย่างไรบ้าง",
-        "en": "กรณีลืมสแกนนิ้วต้องทำอย่างไรบ้าง",
-        "ja": "กรณีลืมสแกนนิ้วต้องทำอย่างไรบ้าง"
+        "en": "What should I do if I forget to scan my fingerprint?",
+        "ja": "指紋をスキャンし忘れた場合はどうすればいいですか?"
       },
       "a": {
         "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
@@ -95,13 +95,13 @@
       "tag": "",
       "q": {
         "th": "บริษัทมีกำหนดพักกลางวันช่วงใดบ้าง",
-        "en": "the companyมีกำหนดพักกลางวันช่วงใดบ้าง",
-        "ja": "会社มีกำหนดพักกลางวันช่วงใดบ้าง"
+        "en": "What are the company's scheduled lunch breaks?",
+        "ja": "会社の昼休みは何時に予定されていますか?"
       },
       "a": {
-        "th": "กรุณาตรวจสอบรายละเอียดผ่าน Intranet หรือสอบถามแผนกที่เกี่ยวข้อง ข้อมูลนี้จะมีการอัปเดตเป็นระยะเพื่อความถูกต้อง.",
-        "en": "Please check the details via the Intranet or consult the relevant department. This information is updated periodically to ensure accuracy.",
-        "ja": "詳細はイントラネットで確認するか、関連部門にお問い合わせください。この情報は正確性を保つために定期的に更新されます。"
+        "th": "พักกลางวันช่วง 12:00-13:00",
+        "en": "Lunch break is from 12:00 to 13:00.",
+        "ja": "昼休みは12:00から13:00です。"
       }
     },
     {
