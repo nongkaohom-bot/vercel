@@ -88,7 +88,37 @@ function findDocByQuery(docs, query) {
     return q === key || kws.some((k) => k && q.includes(k));
   }) || null;
 }
+// =================
+// Notify HR function
+// =================
+async function notifyHR(queryText) {
+  const token = process.env.LINE_CHANNEL_ACCESS_TOKEN;
+  const groupId = process.env.HR_GROUP_ID;
 
+  if (!token || !groupId) {
+    console.log("Missing token or groupId");
+    return;
+  }
+
+  await fetch("https://api.line.me/v2/bot/message/push", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${token}`,
+    },
+    body: JSON.stringify({
+      to: groupId,
+      messages: [
+        {
+          type: "text",
+          text: `⚠️ มีคำถามที่บอทตอบไม่ได้:\n"${queryText}"`
+        }
+      ],
+    }),
+  });
+
+  console.log("HR notified");
+}
 // =====================
 // Handler
 // =====================
@@ -149,6 +179,7 @@ module.exports = async (req, res) => {
     if (!hit) hit = findKBItemByQuery(queryText);
 
     if (!hit) {
+      await notifyHR(queryText);
       const fallback = {
         th: "ขอรายละเอียดเพิ่มเติม เพื่อช่วยค้นหาคำตอบให้ตรงขึ้นครับ/ค่ะ",
         en: "Please provide a bit more detail so I can answer precisely.",
