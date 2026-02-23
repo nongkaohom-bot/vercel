@@ -93,6 +93,7 @@ function findDocByQuery(docs, query) {
 // Handler
 // =====================
 module.exports = async (req, res) => {
+  console.log("FULL REQUEST:", JSON.stringify(req.body, null, 2));
   if (req.method !== "POST") {
     return res.status(405).json({ error: "Method Not Allowed. Use POST." });
   }
