@@ -167,3 +167,4 @@ module.exports = async (req, res) => {
     });
   }
 };
+console.log("FULL REQUEST:", JSON.stringify(req.body, null, 2));
